@@ -88,13 +88,6 @@ cursor:pointer;
     right: 50px;      
     z-index: 999; 
     transition:0.9;        
-}
-.cap-1:hover{
-transition:0.9;
-padding:25px; 
-
-
-}
 
 .cap{
 display:flex;
